@@ -1,0 +1,28 @@
+name: Growth Minded Podcast
+favicon: null
+layout_spectrum: 0.07166816829703748
+typography_spectrum: 0.15667304233647883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6353547968901694
+  lightness: 0.3217207402922213
+  saturation: 0.7198404842056334
+  rhythmicContrast: 0.6842455442529172
+purpose: []
